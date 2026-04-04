@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "sarah-chen",
+    "name": "Sarah Chen",
+    "title": "Nutrition Editor",
+    "credentials": "RDN, MS",
+    "avatar": "/images/editors/sarah-chen.jpg",
+    "bio": "Sarah Chen is a Registered Dietitian Nutritionist with a Master's in Nutritional Science from UC Davis. With 12 years of clinical experience, she specializes in metabolic health and evidence-based dietary interventions. Her work has been cited in the American Journal of Clinical Nutrition.",
+    "expertise": ["Clinical Nutrition", "Metabolic Health", "Dietary Interventions"],
+    "categories": ["nutrition"]
+  },
+  {
+    "slug": "marcus-rivera",
+    "name": "Marcus Rivera",
+    "title": "Fitness Editor",
+    "credentials": "CSCS, MS",
+    "avatar": "/images/editors/marcus-rivera.jpg",
+    "bio": "Marcus Rivera holds a Master's in Exercise Science and is a Certified Strength and Conditioning Specialist (NSCA). He has spent 10 years working with athletes and general populations, focusing on evidence-based training methodologies and body composition optimization.",
+    "expertise": ["Exercise Science", "Strength Training", "Body Composition"],
+    "categories": ["fitness"]
+  },
+  {
+    "slug": "emily-park",
+    "name": "Dr. Emily Park",
+    "title": "Mental Health Columnist",
+    "credentials": "PhD, Clinical Psychology",
+    "avatar": "/images/editors/emily-park.jpg",
+    "bio": "Dr. Emily Park is a clinical psychologist specializing in sleep research and stress management. She earned her PhD from Stanford University and has published extensively on the intersection of sleep quality and mental health outcomes.",
+    "expertise": ["Sleep Science", "Stress Management", "Cognitive Behavioral Therapy"],
+    "categories": ["mental-health"]
+  },
+  {
+    "slug": "james-whitfield",
+    "name": "James Whitfield",
+    "title": "Preventive Care Editor",
+    "credentials": "MPH",
+    "avatar": "/images/editors/james-whitfield.jpg",
+    "bio": "James Whitfield holds a Master of Public Health from Johns Hopkins Bloomberg School. As a former epidemiological researcher, he brings a data-driven approach to preventive health, cardiovascular risk assessment, and population health strategies.",
+    "expertise": ["Epidemiology", "Cardiovascular Health", "Risk Assessment"],
+    "categories": ["preventive-care"]
+  },
+  {
+    "slug": "anika-sharma",
+    "name": "Dr. Anika Sharma",
+    "title": "Women's Health Editor",
+    "credentials": "MD, OB-GYN",
+    "avatar": "/images/editors/anika-sharma.jpg",
+    "bio": "Dr. Anika Sharma is a board-certified OB-GYN with 10 years of clinical experience. She is passionate about making women's health information accessible and evidence-based, with particular expertise in prenatal care and hormonal health.",
+    "expertise": ["Obstetrics", "Prenatal Care", "Hormonal Health"],
+    "categories": ["womens-health"]
+  },
+  {
+    "slug": "robert-tanaka",
+    "name": "Robert Tanaka",
+    "title": "Senior Health Columnist",
+    "credentials": "MS, Gerontology",
+    "avatar": "/images/editors/robert-tanaka.jpg",
+    "bio": "Robert Tanaka specializes in gerontology and longevity research. With a Master's in Gerontology from USC, he has studied centenarian populations across Asia and the Blue Zones, bringing unique cross-cultural insights to healthy aging.",
+    "expertise": ["Gerontology", "Longevity Research", "Blue Zones"],
+    "categories": ["aging"]
+  }
+]

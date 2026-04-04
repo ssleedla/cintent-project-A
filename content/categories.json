@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "nutrition",
+    "name": "Nutrition & Diet",
+    "description": "Evidence-based insights on nutrition, dietary patterns, and metabolic health."
+  },
+  {
+    "slug": "fitness",
+    "name": "Fitness & Exercise",
+    "description": "Science-backed approaches to physical fitness, strength training, and body composition."
+  },
+  {
+    "slug": "mental-health",
+    "name": "Mental Health",
+    "description": "Research-driven perspectives on stress, sleep, mindfulness, and emotional wellbeing."
+  },
+  {
+    "slug": "preventive-care",
+    "name": "Preventive Care",
+    "description": "Proactive health strategies, risk assessment, and disease prevention."
+  },
+  {
+    "slug": "womens-health",
+    "name": "Women's Health",
+    "description": "Comprehensive coverage of women's health, from reproductive wellness to hormonal balance."
+  },
+  {
+    "slug": "aging",
+    "name": "Aging & Longevity",
+    "description": "Cutting-edge research on healthy aging, longevity science, and senior wellness."
+  }
+]
