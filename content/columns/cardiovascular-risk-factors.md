@@ -16,70 +16,90 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/15364185/"
   - title: "NIH/NHLBI — Framingham Heart Study"
     url: "https://www.framinghamheartstudy.org"
+  - title: "Khan SS, et al. — Development and Validation of the American Heart Association's PREVENT Equations (Circulation, 2024)"
+    url: "https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.123.067626"
 ---
 
-Cardiovascular disease kills more people worldwide than any other cause. Not cancer. Not infectious disease. Not accidents. According to the World Health Organization, an estimated 17.9 million people die from cardiovascular conditions each year, representing roughly 32% of all global deaths. The scale of this problem is staggering, and yet the most important finding from decades of cardiovascular research is fundamentally optimistic: the majority of these deaths are preventable.
+Heart disease kills roughly 17.9 million people worldwide every year. That is more than cancer, more than infectious disease, more than accidents. The World Health Organization puts cardiovascular conditions at the top of the global mortality table in every year on record, accounting for around 32% of deaths. The statistic is numbing. It is also, in a specific and evidence-backed sense, misleading — because the story the research tells isn't one of inevitable decline. It is a story about which levers you can actually pull, and how large the effect is when you pull them.
 
-## The INTERHEART Revelation
+## The INTERHEART Finding That Should Have Ended the Debate
 
-In 2004, researchers published the INTERHEART study — one of the largest case-control studies ever conducted on heart attack risk factors. Spanning 52 countries across every inhabited continent, it enrolled over 29,000 participants and asked a deceptively simple question: what factors most strongly predict a first myocardial infarction?
+In 2004, a team led by Salim Yusuf published INTERHEART in The Lancet. It remains one of the most important epidemiological studies ever conducted on heart attack risk. Case-control design. 52 countries. Over 29,000 participants. Every inhabited continent. One question: which factors actually predict a first myocardial infarction?
 
-The answer was remarkably consistent across geographies, ethnicities, and age groups. Nine modifiable risk factors accounted for over 90% of the population-attributable risk of a first heart attack. Nine factors. Not fifty. Not some unknowable constellation of genetic variables. Nine things that individuals and health systems can actually address.
+The answer held together across every geography and every ethnic group examined. **Nine modifiable factors accounted for more than 90% of the population-attributable risk of first myocardial infarction.** Those nine were: abnormal lipids, current smoking, hypertension, diabetes, abdominal obesity, psychosocial stress, inadequate fruit and vegetable intake, sedentary behavior, and excess alcohol consumption. Not one of the top nine was non-modifiable. Family history, age, and sex matter — but their population-level contribution was dwarfed by the levers individuals and health systems could actually move.
 
-Those nine factors were: abnormal lipids, smoking, hypertension, diabetes, abdominal obesity, psychosocial stress, low fruit and vegetable intake, lack of regular physical activity, and alcohol consumption. Notably absent from this list was any non-modifiable factor. Family history, age, and sex all matter — but the modifiable factors dwarf them in population-level impact.
+This finding changed how preventive cardiology is taught. It has not, unfortunately, changed how most people think about their own risk.
 
-## Blood Pressure: The Silent Multiplier
+## The 2024 Shift: PREVENT Replaces the Pooled Cohort Equations
 
-Hypertension deserves its reputation as the "silent killer." It typically produces no symptoms until it has already damaged blood vessels, the heart muscle, and end organs including the kidneys and brain. The Framingham Heart Study — running continuously since 1948 — demonstrated that the relationship between blood pressure and cardiovascular risk is continuous and graded. There is no magic threshold below which risk disappears entirely.
+For roughly a decade, the default U.S. tool for estimating cardiovascular risk was the ACC/AHA Pooled Cohort Equations — a 10-year ASCVD risk calculator built from older cohort data. In 2024 the American Heart Association introduced a replacement: the PREVENT (Predicting Risk of cardiovascular disease EVENTs) equations, validated on more than 6.5 million contemporary U.S. adults.
 
-The 2017 ACC/AHA guidelines lowered the hypertension threshold from 140/90 to 130/80 mmHg, instantly reclassifying millions of previously "normal" individuals as hypertensive. This wasn't arbitrary. The SPRINT trial had shown that targeting a systolic blood pressure below 120 mmHg reduced cardiovascular events by 25% and all-cause mortality by 27% compared to the standard target of below 140 mmHg.
+PREVENT matters for three reasons. First, it estimates both 10-year and 30-year risk for ages 30 to 79 — the 30-year window is particularly useful for younger patients whose 10-year numbers look deceptively low. Second, it removes race as a variable, addressing a long-standing concern with the Pooled Cohort Equations. Third, and most significantly, it folds kidney function and metabolic health directly into the risk equation via estimated glomerular filtration rate (eGFR), HbA1c, and urine albumin-to-creatinine ratio when available. This reflects the growing recognition that cardiovascular, kidney, and metabolic disease form a single interconnected syndrome — the CKM framework — rather than three separate organ-system problems.
 
-For individuals trying to understand their own readings and what they mean, [cardiovascular risk assessment tools based on established clinical models](https://calctools.co.kr/health/cardiovascular-risk) provide a structured way to contextualize blood pressure alongside other risk factors — an approach that mirrors how clinicians actually evaluate risk.
+The 2026 ACC/AHA Guideline on the Management of Dyslipidemia now designates PREVENT-ASCVD as the preferred risk estimation tool for adults aged 30 to 79 without known cardiovascular disease.
 
-What makes blood pressure particularly insidious is its multiplicative interaction with other risk factors. High blood pressure alone increases cardiovascular risk. High blood pressure combined with elevated LDL cholesterol increases it far more than the sum of either factor in isolation. Add smoking, and the compounding effect becomes dramatic.
+## Blood Pressure: The Multiplier That Runs Silent
 
-## Cholesterol: Beyond "Good" and "Bad"
+The Framingham Heart Study has been tracking cardiovascular outcomes since 1948 in a multigenerational cohort in Massachusetts. Its single most replicated finding is that the relationship between blood pressure and cardiovascular events is continuous and graded. There is no threshold below which risk vanishes. Every 20 mmHg rise in systolic pressure roughly doubles the risk of death from ischemic heart disease and stroke across the range from 115 to 185 mmHg.
 
-The public understanding of cholesterol remains stuck in the 1990s framework of "good cholesterol" (HDL) versus "bad cholesterol" (LDL). While directionally useful, this simplification misses important nuance.
+The 2017 ACC/AHA guidelines lowered the hypertension threshold from 140/90 to 130/80 mmHg. The 2025 update reaffirmed this classification. The reclassification was controversial but rested on solid evidence — most prominently the NIH-funded SPRINT trial, which found that targeting systolic pressure below 120 mmHg (compared with below 140) reduced cardiovascular events by 25% and all-cause mortality by 27% in high-risk adults.
 
-LDL particle number — not just concentration — appears to be a stronger predictor of atherosclerotic risk. Two individuals with identical LDL-C levels (measured in mg/dL) can have vastly different numbers of LDL particles. The person with more numerous, smaller particles generally faces higher risk because more particles mean more opportunities for arterial wall penetration and plaque formation.
+What makes hypertension particularly dangerous is its multiplicative interaction with other factors. Elevated blood pressure plus elevated LDL cholesterol produces more than the sum of their individual contributions. Add current smoking, and the effect compounds again.
 
-Apolipoprotein B (ApoB) has emerged as a more accurate single biomarker for atherogenic risk than traditional LDL-C. Each atherogenic lipoprotein particle carries exactly one ApoB molecule, making it effectively a particle count rather than a cholesterol concentration measurement.
+For individuals trying to understand how their own numbers fit into the broader risk picture, [cardiovascular risk assessment tools based on established clinical models](https://calctools.co.kr/health/cardiovascular-risk) provide a structured way to contextualize blood pressure alongside lipids, smoking status, glucose, and kidney function — which is how clinicians actually think about cardiovascular risk.
 
-Triglyceride levels, once considered a secondary concern, have gained renewed attention. Elevated triglycerides — particularly in the non-fasting state — correlate with increased remnant cholesterol, a particle class that may be as atherogenic as LDL.
+## Lipids: Past the Good/Bad Dichotomy
 
-## Smoking: The Most Modifiable Risk Factor
+The public mental model of cholesterol is still stuck in the HDL-good, LDL-bad framing of the early 1990s. The field has moved on. Two concepts deserve more attention.
 
-Among all cardiovascular risk factors, smoking offers the clearest intervention calculus. The risk is enormous: smokers face two to four times the cardiovascular disease risk of non-smokers. But the recovery timeline is remarkably fast. Within one year of cessation, excess cardiovascular risk drops by approximately 50%. Within five to fifteen years, stroke risk returns to that of a non-smoker.
+**LDL particle number, not just concentration.** Two people with identical LDL-C values in mg/dL can carry very different numbers of circulating LDL particles, depending on how much cholesterol each particle is transporting. The person with more, smaller particles faces higher atherosclerotic risk because each particle is an opportunity for arterial wall penetration.
 
-This rapid reversibility distinguishes smoking from other risk factors. Reversing decades of hypertension-related vascular remodeling or atherosclerotic plaque accumulation takes years and may never be complete. Removing the inflammatory and endothelial-damaging effects of cigarette smoke produces measurable cardiovascular benefit within weeks.
+**Apolipoprotein B (ApoB).** Each atherogenic lipoprotein carries exactly one ApoB molecule, which makes ApoB an effective particle count. A growing body of evidence — including Mendelian randomization studies — suggests ApoB predicts cardiovascular events more accurately than LDL-C, particularly in people with insulin resistance, metabolic syndrome, or hypertriglyceridemia. Some cardiology centers now order ApoB routinely alongside a standard lipid panel.
 
-## Diabetes and Metabolic Syndrome
+Triglycerides, once treated as a secondary concern, have also been reassessed. Elevated non-fasting triglycerides correlate with higher remnant cholesterol — a class of atherogenic particles that conventional panels don't always capture.
 
-Type 2 diabetes roughly doubles cardiovascular risk, and the relationship is dose-dependent — higher HbA1c levels correspond to progressively higher event rates. But diabetes rarely exists in isolation. The metabolic syndrome cluster — central obesity, elevated triglycerides, low HDL, hypertension, and insulin resistance — represents a package of interrelated risk factors that amplify each other.
+## Smoking: The Biggest Single Lever
 
-Addressing metabolic syndrome requires a systems approach rather than targeting individual biomarkers. Weight loss of 5-10% of body weight improves insulin sensitivity, lowers blood pressure, improves lipid profiles, and reduces inflammatory markers simultaneously. No single pharmaceutical intervention produces this breadth of benefit.
+Smoking offers the clearest risk-reward calculus in preventive cardiology. Current smokers face roughly two to four times the cardiovascular risk of never-smokers. And cessation works faster than almost any other intervention in medicine. Within 12 months of quitting, excess coronary risk drops by about 50%. Within 5 to 15 years, stroke risk approaches that of a never-smoker.
 
-## Physical Inactivity: The Overlooked Epidemic
+This reversibility is unusual. Undoing decades of hypertension-driven arterial stiffening takes years of sustained pressure control and may never fully normalize. Removing the inflammatory and endothelial damage of cigarette smoke produces measurable cardiovascular improvement within weeks. If a single intervention deserves top billing in any conversation about modifiable cardiovascular risk, it is this one.
 
-The CDC estimates that physical inactivity accounts for approximately 1 in 10 premature deaths in the United States. The dose-response relationship between physical activity and cardiovascular protection follows a characteristic curve: the greatest risk reduction occurs when moving from no activity to moderate activity. Going from sedentary to 150 minutes of moderate exercise per week reduces cardiovascular mortality by roughly 20-30%.
+## Diabetes, Metabolic Syndrome, and the CKM Cluster
 
-This doesn't require gym memberships or marathon training. Brisk walking, cycling, swimming, gardening — any activity that elevates heart rate above resting levels counts. The Framingham data, now spanning three generations, consistently shows that physically active individuals develop cardiovascular disease roughly a decade later than their sedentary counterparts.
+Type 2 diabetes roughly doubles cardiovascular risk. HbA1c and event rates climb together in a dose-dependent way. But diabetes rarely stands alone. The metabolic syndrome cluster — central adiposity, elevated triglycerides, low HDL, elevated blood pressure, and impaired glucose tolerance — represents a package of interacting abnormalities that amplify one another.
 
-## The Non-Modifiable Factors: Context, Not Destiny
+Addressing this cluster requires a systems approach rather than hunting down each biomarker individually. A 5 to 10% weight loss, achieved through dietary change and physical activity, simultaneously improves insulin sensitivity, lowers blood pressure, raises HDL, lowers triglycerides, and reduces inflammatory markers. No single pharmaceutical delivers that breadth of downstream benefit.
 
-Family history, age, sex, and ethnicity influence cardiovascular risk but do not determine it. A man with a strong family history of premature heart disease who maintains a healthy weight, exercises regularly, doesn't smoke, and manages his blood pressure and cholesterol has substantially lower risk than a man with no family history who does none of those things.
+The newer CKM (cardiovascular-kidney-metabolic) framing, now embedded in the PREVENT equations, recognizes that chronic kidney disease at any stage magnifies cardiovascular risk independently of the traditional factors. Checking eGFR and urine albumin in anyone with diabetes or hypertension is no longer optional best practice — it is guideline-level standard of care.
 
-The Framingham Risk Score, the ASCVD Pooled Cohort Equations, and the European SCORE system all incorporate both modifiable and non-modifiable factors precisely because risk assessment requires the full picture. Age and sex set the baseline slope. Modifiable factors determine where on that slope an individual actually sits.
+## Physical Inactivity, Quantified
 
-## What This Means for Prevention
+The CDC estimates that physical inactivity contributes to roughly 1 in 10 premature deaths in the United States. The dose-response curve is front-loaded: the largest relative benefit comes from moving out of complete inactivity into even modest weekly activity. Going from sedentary to roughly 150 minutes of moderate exercise per week reduces cardiovascular mortality by 20 to 30% in prospective cohort studies.
 
-The INTERHEART finding — that nine modifiable factors explain over 90% of heart attack risk — should be liberating, not frightening. It means that for most people, cardiovascular disease is not an inevitability to be passively accepted but a probability to be actively managed.
+The specific modality barely matters. Brisk walking, cycling, swimming, gardening, climbing stairs, structured resistance training — anything that durably raises heart rate above resting baseline contributes. The Framingham data, now spanning three generations, consistently shows that physically active individuals develop cardiovascular disease roughly a decade later than their sedentary peers.
 
-The hierarchy of interventions, ranked by impact, looks roughly like this: stop smoking if you smoke, treat hypertension if present, achieve moderate physical activity levels, manage lipids through diet and medication if indicated, maintain a healthy waist circumference, eat adequate fruits and vegetables, manage blood glucose, moderate alcohol intake, and address chronic psychosocial stress.
+## Non-Modifiable Factors: Context, Not Fate
 
-No one needs to do all of these perfectly. The INTERHEART data shows that even partial risk factor modification produces meaningful protection. Reducing blood pressure by 10 mmHg, lowering LDL by 1 mmol/L, or adding 150 minutes of weekly walking each independently reduces event risk by roughly 20-25%.
+Age, sex, and family history influence baseline risk but do not determine outcomes. A man in his fifties with a brother who had a heart attack at 48 — but who doesn't smoke, exercises, controls his blood pressure, and keeps his ApoB in range — carries meaningfully lower absolute risk than a man with no family history who does none of those things. Genetics set the slope. Modifiable factors determine where on the slope you actually sit.
 
-Heart disease remains the world's leading cause of death. But it is increasingly a disease of choice — not in the blaming sense, but in the empowering sense. The levers exist. The evidence for pulling them is overwhelming. The question is whether individuals and health systems will act on what we already know.
+Polygenic risk scores for coronary artery disease are now robust enough that several clinical genomics programs report them to patients. They help stratify risk, particularly in younger adults with borderline traditional risk profiles. They do not override the evidence that lifestyle and pharmacological risk factor control produces meaningful event reduction at every genetic risk level.
+
+## Ranking the Levers
+
+The evidence supports a rough hierarchy of impact:
+
+1. **Stop smoking** — the single largest, fastest-acting modifiable factor
+2. **Control blood pressure** — target below 130/80 for most adults, lower in high-risk groups
+3. **Manage ApoB / LDL** — through diet, exercise, and statin therapy where indicated
+4. **Reach 150 minutes of moderate physical activity per week** — minimum effective dose
+5. **Maintain healthy waist circumference** — central adiposity drives the metabolic cluster
+6. **Control glucose** — including early intervention in prediabetes
+7. **Eat adequate fruits, vegetables, and fiber** — the Mediterranean pattern has the strongest outcome data
+8. **Moderate alcohol**
+9. **Address chronic stress and sleep deficits** — the two most underappreciated contributors
+
+No one runs this list perfectly. INTERHEART showed that partial risk factor control still produces substantial protection: reducing systolic blood pressure by 10 mmHg, lowering LDL by 1 mmol/L, or adding 150 weekly minutes of walking each independently reduces cardiovascular events by roughly 20 to 25%. Stack two or three of them and the combined effect becomes transformative.
+
+Heart disease is still the leading cause of death globally. But it is increasingly a disease of choice — not in the moralizing sense, but in the empowering one. The levers exist. The effect sizes are large. The tools for estimating individual risk are better than they have ever been. The question now is whether individuals and health systems will act on evidence that has been sitting on the desk for twenty years.
 
 *James Whitfield is the Preventive Care Editor at HealthKoLab. He holds an MPH from Johns Hopkins Bloomberg School of Public Health with a concentration in cardiovascular epidemiology.*
