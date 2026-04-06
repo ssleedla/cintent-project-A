@@ -22,6 +22,9 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: SITE_NAME,
   },
+  icons: {
+    icon: "/favicon.svg",
+  },
   robots: {
     index: true,
     follow: true,
