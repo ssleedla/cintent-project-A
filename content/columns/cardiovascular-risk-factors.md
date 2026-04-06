@@ -46,7 +46,7 @@ The 2017 ACC/AHA guidelines lowered the hypertension threshold from 140/90 to 13
 
 What makes hypertension particularly dangerous is its multiplicative interaction with other factors. Elevated blood pressure plus elevated LDL cholesterol produces more than the sum of their individual contributions. Add current smoking, and the effect compounds again.
 
-For individuals trying to understand how their own numbers fit into the broader risk picture, [cardiovascular risk assessment tools based on established clinical models](https://calctools.co.kr/health/cardiovascular-risk) provide a structured way to contextualize blood pressure alongside lipids, smoking status, glucose, and kidney function — which is how clinicians actually think about cardiovascular risk.
+For individuals trying to understand how their own numbers fit into the broader risk picture, cardiovascular risk assessment tools based on established clinical models provide a structured way to contextualize blood pressure alongside lipids, smoking status, glucose, and kidney function — which is how clinicians actually think about cardiovascular risk.
 
 ## Lipids: Past the Good/Bad Dichotomy
 

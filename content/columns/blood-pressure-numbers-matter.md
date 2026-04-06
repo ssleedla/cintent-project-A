@@ -52,7 +52,7 @@ The 2025 AHA/ACC/AANP multi-society guideline reaffirmed the four-category frame
 
 The original reclassification from 140/90 to 130/80 was controversial when introduced and remains so. It rested primarily on the SPRINT trial, which found that targeting systolic pressure below 120 mmHg reduced cardiovascular events by 25% and all-cause mortality by 27% compared with a target below 140, in a high-risk adult population. Critics worried about overtreatment. Proponents argued that most newly reclassified individuals needed lifestyle change rather than pills, and that lowering the label was the intervention.
 
-For anyone trying to place their own readings into the current framework, [a blood pressure classification tool using updated clinical guidelines](https://calctools.co.kr/health/blood-pressure) translates raw numbers into context — including how the 2025 thresholds compare to the older 140/90 cutoff many people still remember.
+For anyone trying to place their own readings into the current framework, a blood pressure classification tool using updated clinical guidelines translates raw numbers into context — including how the 2025 thresholds compare to the older 140/90 cutoff many people still remember.
 
 ## White Coat, Masked, and the Limits of Single Readings
 

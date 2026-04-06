@@ -17,9 +17,6 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/23990473/"
   - title: "CDC — Preterm Birth"
     url: "https://www.cdc.gov/maternal-infant-health/preterm-birth/index.html"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/pregnancy-week"
-  anchor: "a pregnancy week calculator that tracks fetal development milestones"
 ---
 
 In 1812, a German obstetrician named Franz Karl Naegele published a rule for estimating due dates: take the first day of the last menstrual period (LMP), subtract three months, add seven days. Two centuries later, Naegele's rule — LMP plus 280 days, or 40 weeks — is still the starting point for almost every pregnancy timeline in the world. It assumes a 28-day cycle with ovulation on day 14. Neither assumption holds for the majority of pregnant women. And yet the rule endures, because for most of obstetric history it was the only instrument available.
@@ -62,7 +59,7 @@ The World Health Organization's 2016 recommendations on antenatal care increased
 
 Each touchpoint exists because research showed the screening or intervention is most effective — or only meaningful — at that gestational week. The framework functions as an engineering document as much as a medical one.
 
-For expectant parents who want to understand what each week means in terms of fetal development and symptom timing, [a pregnancy week calculator that tracks fetal development milestones](https://calctools.co.kr/health/pregnancy-week) can translate clinical gestational age into plain-language developmental context, bridging the gap between the numbers in a medical chart and the reality unfolding inside the womb.
+For expectant parents who want to understand what each week means in terms of fetal development and symptom timing, a pregnancy week calculator that tracks fetal development milestones can translate clinical gestational age into plain-language developmental context, bridging the gap between the numbers in a medical chart and the reality unfolding inside the womb.
 
 ## The Parallel Maternal Timeline
 

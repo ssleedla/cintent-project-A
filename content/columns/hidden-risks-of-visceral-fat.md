@@ -17,9 +17,6 @@ sources:
     url: "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html"
   - title: "Ross R, et al. — Waist circumference as a vital sign in clinical practice (Nature Reviews Endocrinology, 2020)"
     url: "https://pubmed.ncbi.nlm.nih.gov/32020062/"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/body-fat"
-  anchor: "body composition calculators that distinguish between fat types"
 ---
 
 Two men walk into a clinic. Same height, same 78 kilograms, same off-the-rack 32-inch trousers. One has a visceral fat area of 80 cm squared on abdominal imaging. The other measures 180. Their ten-year cardiometabolic trajectories will diverge so sharply that by age 60, one is managing type 2 diabetes, non-alcoholic fatty liver disease, and hypertension while the other isn't. Nothing on the bathroom scale predicted this. Almost nothing on a BMI chart did either.
@@ -54,7 +51,7 @@ Here's the core problem. BMI was designed as a population screening tool, not a 
 
 DEXA (dual-energy X-ray absorptiometry) is the practical clinical gold standard for quantifying the visceral compartment — CT and MRI at the L4-L5 vertebral level remain the research reference, but DEXA delivers usable numbers at a fraction of the radiation and cost. Still, few primary care visits include body composition imaging.
 
-For people who want a more granular picture than step-on-scale BMI can offer, [body composition calculators that distinguish between fat types](https://calctools.co.kr/health/body-fat) estimate the visceral compartment from anthropometric inputs — a reasonable screening layer between a tape measure and a full imaging study.
+For people who want a more granular picture than step-on-scale BMI can offer, body composition calculators that distinguish between fat types estimate the visceral compartment from anthropometric inputs — a reasonable screening layer between a tape measure and a full imaging study.
 
 ## Three Numbers Better Than a Scale
 

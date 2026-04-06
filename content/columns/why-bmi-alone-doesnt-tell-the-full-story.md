@@ -18,9 +18,6 @@ sources:
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC8208895/"
   - title: "CDC — About Adult BMI"
     url: "https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/bmi"
-  anchor: "a BMI calculator calibrated to Asian-specific thresholds"
 ---
 
 A 24.5 BMI earns a reassuring nod in a New York clinic. The same number in a Seoul clinic opens a conversation about pre-obesity, visceral fat, and metabolic screening. This isn't a quirk of local medical culture — it reflects nearly two decades of evidence that the numerical cutoffs built into the standard BMI chart were never designed for the populations they are most often used on.
@@ -39,7 +36,7 @@ The numbers that emerged from that consultation are now embedded in clinical pra
 
 That gap is not academic. A 2021 population-based cohort study in The Lancet Diabetes & Endocrinology examined type 2 diabetes risk across ethnic groups in England and found that the equivalent BMI at which South Asian adults face the same diabetes risk as White adults at BMI 30 is approximately 23.9. For Black adults the figure was 28.1, and for Chinese adults 26.9. A single universal threshold collapses these differences and, in doing so, systematically underdiagnoses metabolic disease in the populations most affected by it.
 
-For those curious about where they fall on region-specific scales, [a BMI calculator calibrated to Asian-specific thresholds](https://calctools.co.kr/health/bmi) offers a more nuanced assessment than most generic tools still circulating online.
+For those curious about where they fall on region-specific scales, a BMI calculator calibrated to Asian-specific thresholds offers a more nuanced assessment than most generic tools still circulating online.
 
 ## Heterogeneity the Pan-Asian Label Obscures
 

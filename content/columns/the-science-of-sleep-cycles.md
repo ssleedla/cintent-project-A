@@ -17,9 +17,6 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/29073412/"
   - title: "Walker M. — Why We Sleep (PMC, 2018)"
     url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6048360/"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/sleep-cycle"
-  anchor: "an interactive sleep cycle analyzer that calculates optimal wake times"
 ---
 
 You logged eight hours. The math should add up to a bright, easy morning. Instead the alarm yanks you out of something heavy and strange, and the next forty minutes dissolve into fog that coffee barely touches. The issue is rarely how long you were in bed. It's which phase of the 90-minute sleep cycle the alarm interrupted.
@@ -50,7 +47,7 @@ But raw hours are only half the story. The stage at which the alarm finds you de
 
 This is why someone who sleeps six hours and wakes at the end of a clean cycle can feel sharper than someone who logged seven hours but was torn out of deep sleep mid-cycle. The math is straightforward. Five complete 90-minute cycles equal 7.5 hours. Six cycles equal 9 hours. Aiming for these multiples — and accounting for the 10 to 20 minutes it typically takes to fall asleep — is a more effective strategy than blindly maximizing time in bed.
 
-For those who want to work backward from a fixed wake-up time, [an interactive sleep cycle analyzer that calculates optimal wake times](https://calctools.co.kr/health/sleep-cycle) can identify the best bedtimes in 90-minute intervals, adding the typical sleep-onset buffer so the arithmetic does not have to happen at midnight.
+For those who want to work backward from a fixed wake-up time, an interactive sleep cycle analyzer that calculates optimal wake times can identify the best bedtimes in 90-minute intervals, adding the typical sleep-onset buffer so the arithmetic does not have to happen at midnight.
 
 ## Sleep Hygiene: What Actually Moves the Needle
 

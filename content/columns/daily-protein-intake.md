@@ -18,9 +18,6 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/23867520/"
   - title: "Deutz NEP, et al. — Protein intake and exercise for optimal muscle function with aging: Recommendations from the ESPEN Expert Group"
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4208946/"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/protein-intake"
-  anchor: "protein requirement calculators that adjust for age, activity level, and training goals"
 ---
 
 A powerlifter and a gerontologist walk into a room, and they will give you wildly different answers about how much protein you should eat. The powerlifter will quote 2.2 grams per kilogram of body weight and tell you anything less is leaving muscle on the table. The gerontologist, thinking of her 78-year-old patients, will warn that most older adults hover around 0.7 g/kg and are quietly losing muscle mass because of it. Both are correct. The trouble is that public guidance keeps trying to reduce their disagreement to a single number, and that number — the RDA — answers a question almost nobody is actually asking.
@@ -57,7 +54,7 @@ Distribution across the day, however, is a different story. Consuming roughly 30
 
 The practical rule of thumb: aim for at least 2.5 g of leucine per feeding, which roughly corresponds to 25 to 30 g of a high-quality protein source (whey, eggs, chicken, fish, lean beef). Three to four such feedings spaced across waking hours cover the majority of the benefit.
 
-For individuals who want a starting estimate tuned to their own weight, activity level, and goals, [protein requirement calculators that adjust for age, activity level, and training goals](https://calctools.co.kr/health/protein-intake) produce numbers that are meaningfully more individualized than the single-figure RDA.
+For individuals who want a starting estimate tuned to their own weight, activity level, and goals, protein requirement calculators that adjust for age, activity level, and training goals produce numbers that are meaningfully more individualized than the single-figure RDA.
 
 ## Protein Quality: DIAAS and the Leucine Question
 

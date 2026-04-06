@@ -17,9 +17,6 @@ sources:
     url: "https://pubmed.ncbi.nlm.nih.gov/24571926/"
   - title: "WHO — Obesity and Overweight Fact Sheet"
     url: "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight"
-calctoolsLink:
-  url: "https://calctools.co.kr/health/tdee"
-  anchor: "tools that estimate daily energy expenditure based on the Mifflin-St Jeor equation"
 ---
 
 Most diet plans start with a calorie target. Eat 1,500. Or 1,200. Or whatever figure the current bestseller is selling. Ask the obvious follow-up — 1,500 relative to what? — and the whole framework collapses. Without knowing how many calories your body actually burns in a day, any fixed intake number is a guess with confidence attached.
@@ -53,7 +50,7 @@ The equation itself:
 
 TDEE is then BMR multiplied by an activity factor — 1.2 for sedentary, 1.375 for lightly active, 1.55 for moderately active, 1.725 for very active, 1.9 for extremely active. The activity multiplier is where most of the error in a TDEE estimate comes from, and we'll come back to that.
 
-For those who want to run these numbers directly, [tools that estimate daily energy expenditure based on the Mifflin-St Jeor equation](https://calctools.co.kr/health/tdee) produce a starting estimate — though any calculator output should be treated as a hypothesis to validate against actual intake and weight trend data, not as a verdict.
+For those who want to run these numbers directly, tools that estimate daily energy expenditure based on the Mifflin-St Jeor equation produce a starting estimate — though any calculator output should be treated as a hypothesis to validate against actual intake and weight trend data, not as a verdict.
 
 ## The Caloric Deficit: How Much Is Enough?
 
